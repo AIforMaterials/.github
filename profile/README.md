@@ -11,8 +11,7 @@ A basic working knowledge of Python and familiarity with materials chemistry or 
 
 ## Repositories
 
-- [book](https://github.com/AIforMaterials/book): _Introduction to Artificial Intelligence for Materials_
-- [lectures](https://github.com/AIforMaterials/lectures): lecture materials for the module
+- [lectures](https://github.com/AIforMaterials/lectures): lecture materials
 - [labs](https://github.com/AIforMaterials/labs): hands-on lab exercises
 
 ## Getting involved
