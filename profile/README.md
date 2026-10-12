@@ -9,6 +9,12 @@ Case studies and tutorials accompany the main text.
 The course is aimed at senior undergraduate and junior postgraduate students.
 A basic working knowledge of Python and familiarity with materials chemistry or physics are assumed.
 
+## Repositories
+
+- [book](https://github.com/AIforMaterials/book): _Introduction to Artificial Intelligence for Materials_
+- [lectures](https://github.com/AIforMaterials/lectures): lecture materials for the module
+- [labs](https://github.com/AIforMaterials/labs): hands-on lab exercises
+
 ## Getting involved
 
 Questions, corrections, and suggestions are welcome as issues on the relevant repository.
