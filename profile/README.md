@@ -20,7 +20,7 @@ Questions, corrections, and suggestions are welcome as issues on the relevant re
 
 ## Licence
 
-Unless stated otherwise, content is shared under a [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0) licence.
+Unless stated otherwise, content is shared under a [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) licence.
 
 ## Contact
 
