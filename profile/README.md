@@ -16,7 +16,7 @@ A basic working knowledge of Python and familiarity with materials chemistry or 
 ## Course materials
 
 - Course website: https://aiformaterials.github.io/
-- Lecture slides: https://aiformaterials.github.io/lectures/
+- Lectures: https://aiformaterials.github.io/lectures/
 - Labs: https://aiformaterials.github.io/labs/
 
 ## Getting involved
