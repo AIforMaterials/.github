@@ -1,5 +1,9 @@
 # Artificial Intelligence for Materials
 
+[![Made with Quarto](https://img.shields.io/badge/Made%20with-Quarto-blue)](https://quarto.org/)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)](https://www.python.org/)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 This organisation hosts resources for _AI for Materials_ (MATE70026), a module in the [Department of Materials](https://www.imperial.ac.uk/materials/) at Imperial College London, and the accompanying book _Introduction to Artificial Intelligence for Materials_.
 
 The material covers how composition, structure and property information can be represented for machine learning, and how to build, train, and evaluate models using open tools and public datasets.
@@ -9,10 +13,9 @@ Case studies and tutorials accompany the main text.
 The course is aimed at senior undergraduate and junior postgraduate students.
 A basic working knowledge of Python and familiarity with materials chemistry or physics are assumed.
 
-## Repositories
+## Course materials
 
-- [lectures](https://github.com/AIforMaterials/lectures): lecture materials
-- [labs](https://github.com/AIforMaterials/labs): hands-on lab exercises
+- Lecture slides: https://aiformaterials.github.io/lectures/
 
 ## Getting involved
 
